@@ -1,0 +1,18 @@
+{
+  "widgets": [
+    {
+      "name": "OrbitWidget",
+      "label": "Orbit Pro",
+      "description": "Track your habits, streaks, and XP at a glance",
+      "minWidth": "250dp",
+      "minHeight": "180dp",
+      "targetCellWidth": 3,
+      "targetCellHeight": 2,
+      "resizeMode": "horizontal|vertical",
+      "widgetCategory": "home_screen",
+      "updatePeriodMillis": 1800000,
+      "previewImage": "@drawable/orbit_widget_preview",
+      "initialLayout": "@layout/orbit_widget_initial"
+    }
+  ]
+}
